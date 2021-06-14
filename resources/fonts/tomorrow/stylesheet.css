@@ -1,0 +1,14 @@
+/*Tomorrow Strong*/
+@font-face {
+    font-family: 'Tomorrow';
+    src: url('Tomorrow-Black.ttf') format('truetype');
+    font-weight: bolder;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Tomorrow';
+    src: url('Tomorrow-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
