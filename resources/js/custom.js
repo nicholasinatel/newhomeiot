@@ -35,7 +35,7 @@ $(document).on('ready', function () {
         $('#pageloader').addClass('p-hidden');
         $('.section').addClass('anim');
     });
-
+//nich code
     var playButton = document.getElementById("play_button");
     var playIcon = document.getElementById("play-icon");
     var pauseIcon = document.getElementById("pause-icon");
