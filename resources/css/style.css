@@ -3665,8 +3665,9 @@ textarea {
 
     #insta-mobile {
         color: white;
-        position: absolute;
-        padding-left: calc(50% - 21px);
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 }
 @media (min-width: 1200px) {
@@ -4441,9 +4442,6 @@ textarea {
         -webkit-transition-delay: 0.6s;
         transition-delay: 0.6s;
     }
-}
-
-.section-cover-tier.mask-black:before {
 }
 
 @media (min-width: 768px) {
@@ -6595,8 +6593,6 @@ h1, h2, h3, h4 {
 }
 .services .media {
     margin-bottom: 25px;
-}
-.services .media h4 {
 }
 
 .section-subscribe img {
